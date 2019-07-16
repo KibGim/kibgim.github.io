@@ -1,3 +1,3 @@
-# My website
+# Mio sito su github.io
 
-A simple and (for now) static personal website, created to play around with [Anime.js](https://github.com/juliangarnier/anime/) and show off my phenomenal animation skills.
+Sito web personale con alcune informazioni personali su Kib Gim.
